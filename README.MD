@@ -3,26 +3,26 @@
 
 ---
 
-## Sobre o Projeto
+## Sobre o Projeto 💬
 
 
 Um game simples, apenas para treinar um pouco da lógica. tem algumas melhorias / correções a serem feitas ainda.
 
 O game é uma homenagem ao nosso doguinho caramelo, Uma figura Brasileira, na qual houveram vários vídeos engraçados, momentos.. que fizeram nosso doguinho ser tão querido.  Já foi até alvo para ser colocado na nota de 200 reais, isso mesmo!
 
+<br>
+
+## ⚒️ Ferramentas 
 
 
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [JavaScript]
-- [Json]
-- [Canvas]
+- JavaScript
+- Json
+- Canvas
 
 ---
+<br><br>
 
-## Demo 📸
+## Demo 🖼️
 
 <div align="center" >
   
