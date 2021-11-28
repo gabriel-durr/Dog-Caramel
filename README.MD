@@ -19,14 +19,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript]
 - [Json]
 - [Canvas]
-- [Axios]
 
 ---
 
 ## Demo 📸
 
 <div align="center" >
-  <img src="./Dog Caramel/gifcaramel" alt="demo" height="425">
+  <img src="https://imgur.com/a/IavxKdq" alt="demo" height="425">
 </div>
 
 
