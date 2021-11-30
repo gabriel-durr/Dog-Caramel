@@ -27,7 +27,6 @@ O game é uma homenagem ao nosso doguinho caramelo, Uma figura Brasileira, na qu
 <div align="center" >
   
   <img src="https://i.imgur.com/0SUkyyu.png" alt="demo" height="425">
-  
   <img src="https://i.imgur.com/vaj4o0u.png" alt="demo" height="425">
   
 </div>
