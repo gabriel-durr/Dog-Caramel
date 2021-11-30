@@ -1,7 +1,7 @@
 <h1 style="text-align: center; font-weight: bold;">Dog Caramel - The game</h1>
 
 
----
+<br>
 
 ## Sobre o Projeto 💬
 
