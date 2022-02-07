@@ -16,7 +16,6 @@ O game é uma homenagem ao nosso doguinho caramelo, Uma figura Brasileira, na qu
 
 
 - JavaScript
-- Json
 - Canvas
 
 ---
