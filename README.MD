@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bold;">Dog Caramel - The game</h1>
+<h1 style="text-align: center; font-weight: bold;">Dog Caramel </h1>
 
 
 
@@ -15,8 +15,6 @@
 
 Criei esse game simples, apenas para treinar um pouco da lógica. tem algumas melhorias / correções a serem feitas..
 
-O game é uma homenagem ao nosso doguinho caramelo, Uma figura Brasileira, na qual houveram vários vídeos engraçados, momentos.. que fizeram nosso doguinho ser tão querido.  Já foi até alvo para ser colocado na nota de 200 reais, isso mesmo!
-
-<br>
+O game é uma homenagem ao nosso doguinho caramelo, Uma figura Brasileira, na qual houveram vários vídeos engraçados, momentos.. 
 
 
