@@ -1,6 +1,6 @@
 
 
-<h1 align="center" class="line-1 anim-typewriter"> Dog Caramel [study project] </h1>
+<h2 align="center" class="line-1 anim-typewriter"> Dog Caramel [study project] </h2>
 
 <div  align="center">
 
