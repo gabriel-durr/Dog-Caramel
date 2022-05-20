@@ -20,7 +20,7 @@
 <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
 
 
-<p  align="center">Criei esse game simples, apenas para treinar um pouco da lógica. tem algumas melhorias / correções a serem feitas..
+<p  align="center">Criei esse game simples, apenas para treinar um pouco da lógica. Há melhorias / correções a serem feitas..
 
 O game é uma homenagem ao nosso doguinho caramelo, Uma figura Brasileira, na qual houveram vários vídeos engraçados, momentos.. </p>
 
