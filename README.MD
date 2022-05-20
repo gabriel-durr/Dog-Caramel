@@ -20,7 +20,7 @@
 <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
 
 
-<p  align="center">Criei esse game simples, apenas para treinar um pouco da lógica. O game é traz referência ao Dog popular BR. Há muitas melhorias / correções a serem feitas.. </p>
+<p  align="center">Criei esse game simples, apenas para treinar um pouco da lógica. O game é traz referência ao Dog popular BR, e há muitas melhorias / correções a serem feitas.. </p>
 
 
  <br>
