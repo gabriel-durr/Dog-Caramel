@@ -1,6 +1,6 @@
 
 
-<h2 align="center" class="line-1 anim-typewriter"> Dog Caramel [study project] </h2>
+<h2 align="center" class="line-1 anim-typewriter"> Dog Caramel</h2>
 
 <div  align="center">
 
@@ -20,7 +20,7 @@
 <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
 
 
-<p  align="center">Criei esse game simples, apenas para treinar um pouco da lógica.  O game é traz referência ao Dog popular BR, e há muitas melhorias / correções a serem feitas.. </p>
+<p  align="center">Game para exercício de lógica. O game faz referência ao popular dog caramelo, e há muitas melhorias / correções a serem feitas.. </p>
 
 
  <br>
@@ -46,7 +46,7 @@
 
 <br><br>
 
-<h2 id = "author" align="center"> 🎨 Author</h2>
+<h2 id = "author" align="center"></h2>
 
 <table align="center">
   <tr>
