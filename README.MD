@@ -20,7 +20,7 @@
 <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
 
 
-<p  align="center">Game para exercício de lógica. O game faz referência ao popular dog caramelo, e há muitas melhorias / correções a serem feitas.. </p>
+<p  align="center">Game para exercício de lógica. Com referência ao popular dog caramelo </p>
 
 
  <br>
